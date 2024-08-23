@@ -11,7 +11,7 @@ HDRP12.1.10
 
 
 
-参考资料
+参考资料  
 https://developer.oculus.com/documentation/unity/audio-ovrlipsync-viseme-reference/  
 https://github.com/soupday/cc_unity_tools_HDRP  
 https://www.youtube.com/watch?v=va-qyFa312g  
