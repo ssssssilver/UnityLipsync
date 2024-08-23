@@ -7,13 +7,7 @@ HDRP12.1.10
 本质上还是对接quest的OVRLipSync那一套，只是将CC4的模型与OVRLipSync重新对接了一次。  
 驱动嘴型需要把脸部的部分动画删除，ctrl+d把模型的动画复制一份,然后手动删除即可
 ![avatar](/output/1.jpg)
-参考视频
-<video width="320" height="240" controls>
-  <source src="/output/中.mp4" type="video/mp4">
-</video>
-<video width="320" height="240" controls>
-  <source src="/output/英.mp4" type="video/mp4">
-</video>
+参考视频放在output文件夹
 
 
 
